@@ -1,0 +1,1774 @@
+[
+  {
+    "system": "Dungeons & Dragons 5e",
+    "core_resolution": [
+      "d20"
+    ],
+    "narrative_authority": [
+      "gm_full"
+    ],
+    "game_structure": [
+      "turn_based",
+      "phased"
+    ],
+    "player_focus": [
+      "party_based"
+    ],
+    "mechanical_philosophy": [
+      "gamist",
+      "simulationist",
+      "cinematic"
+    ],
+    "character_mechanics": [
+      "class_level",
+      "reputation_alignment"
+    ],
+    "dice_philosophy": [
+      "advantage_system",
+      "binary"
+    ],
+    "temporal_scale": [
+      "moment_to_moment"
+    ],
+    "resolution_focus": [
+      "task_resolution"
+    ],
+    "genre_scope": [
+      "setting_tied"
+    ]
+  },
+  {
+    "system": "Pathfinder 2e",
+    "core_resolution": [
+      "d20"
+    ],
+    "narrative_authority": [
+      "gm_full"
+    ],
+    "game_structure": [
+      "turn_based",
+      "phased"
+    ],
+    "player_focus": [
+      "party_based"
+    ],
+    "mechanical_philosophy": [
+      "simulationist",
+      "gamist"
+    ],
+    "character_mechanics": [
+      "class_level",
+      "skill_tree"
+    ],
+    "dice_philosophy": [
+      "graded",
+      "binary"
+    ],
+    "temporal_scale": [
+      "moment_to_moment"
+    ],
+    "resolution_focus": [
+      "task_resolution"
+    ],
+    "genre_scope": [
+      "setting_tied"
+    ]
+  },
+  {
+    "system": "Cypher System",
+    "core_resolution": [
+      "fixed_target"
+    ],
+    "narrative_authority": [
+      "gm_partial"
+    ],
+    "game_structure": [
+      "scene_based",
+      "phased"
+    ],
+    "player_focus": [
+      "party_based"
+    ],
+    "mechanical_philosophy": [
+      "narrativist",
+      "cinematic"
+    ],
+    "character_mechanics": [
+      "trait_aspect",
+      "skill_tree"
+    ],
+    "dice_philosophy": [
+      "graded"
+    ],
+    "temporal_scale": [
+      "scene_to_scene"
+    ],
+    "resolution_focus": [
+      "conflict_resolution"
+    ],
+    "genre_scope": [
+      "generic_engine"
+    ]
+  },
+  {
+    "system": "FATE Core",
+    "core_resolution": [
+      "token_economy",
+      "4dF"
+    ],
+    "narrative_authority": [
+      "gm_partial",
+      "gm_shared"
+    ],
+    "game_structure": [
+      "scene_based"
+    ],
+    "player_focus": [
+      "character_driven"
+    ],
+    "mechanical_philosophy": [
+      "narrativist",
+      "cinematic"
+    ],
+    "character_mechanics": [
+      "trait_aspect",
+      "relationships"
+    ],
+    "dice_philosophy": [
+      "graded"
+    ],
+    "temporal_scale": [
+      "scene_to_scene"
+    ],
+    "resolution_focus": [
+      "conflict_resolution"
+    ],
+    "genre_scope": [
+      "generic_engine"
+    ]
+  },
+  {
+    "system": "Powered by the Apocalypse (generic)",
+    "core_resolution": [
+      "2d6+stat"
+    ],
+    "narrative_authority": [
+      "gm_partial"
+    ],
+    "game_structure": [
+      "scene_based"
+    ],
+    "player_focus": [
+      "character_driven",
+      "party_based"
+    ],
+    "mechanical_philosophy": [
+      "narrativist",
+      "genre_emulator"
+    ],
+    "character_mechanics": [
+      "trait_aspect",
+      "relationships"
+    ],
+    "dice_philosophy": [
+      "graded"
+    ],
+    "temporal_scale": [
+      "scene_to_scene"
+    ],
+    "resolution_focus": [
+      "conflict_resolution"
+    ],
+    "genre_scope": [
+      "genre_emulator"
+    ]
+  },
+  {
+    "system": "Blades in the Dark",
+    "core_resolution": [
+      "dice_pool"
+    ],
+    "narrative_authority": [
+      "gm_partial"
+    ],
+    "game_structure": [
+      "scene_based",
+      "phased"
+    ],
+    "player_focus": [
+      "institution_based",
+      "party_based"
+    ],
+    "mechanical_philosophy": [
+      "narrativist",
+      "cinematic"
+    ],
+    "character_mechanics": [
+      "trait_aspect",
+      "relationships"
+    ],
+    "dice_philosophy": [
+      "graded"
+    ],
+    "temporal_scale": [
+      "scene_to_scene",
+      "downtime_system"
+    ],
+    "resolution_focus": [
+      "conflict_resolution"
+    ],
+    "genre_scope": [
+      "setting_tied"
+    ]
+  },
+  {
+    "system": "Vampire: The Masquerade (V5)",
+    "core_resolution": [
+      "dice_pool"
+    ],
+    "narrative_authority": [
+      "gm_full"
+    ],
+    "game_structure": [
+      "scene_based"
+    ],
+    "player_focus": [
+      "character_driven",
+      "party_based"
+    ],
+    "mechanical_philosophy": [
+      "storyteller",
+      "narrativist",
+      "cinematic"
+    ],
+    "character_mechanics": [
+      "trait_aspect",
+      "reputation_alignment"
+    ],
+    "dice_philosophy": [
+      "graded"
+    ],
+    "temporal_scale": [
+      "scene_to_scene"
+    ],
+    "resolution_focus": [
+      "conflict_resolution"
+    ],
+    "genre_scope": [
+      "setting_tied"
+    ]
+  },
+  {
+    "system": "Shadowrun (6e)",
+    "core_resolution": [
+      "dice_pool"
+    ],
+    "narrative_authority": [
+      "gm_full"
+    ],
+    "game_structure": [
+      "turn_based"
+    ],
+    "player_focus": [
+      "party_based"
+    ],
+    "mechanical_philosophy": [
+      "simulationist",
+      "gamist",
+      "cinematic"
+    ],
+    "character_mechanics": [
+      "skill_tree",
+      "lifepath"
+    ],
+    "dice_philosophy": [
+      "graded",
+      "exploding"
+    ],
+    "temporal_scale": [
+      "moment_to_moment"
+    ],
+    "resolution_focus": [
+      "task_resolution"
+    ],
+    "genre_scope": [
+      "setting_tied"
+    ]
+  },
+  {
+    "system": "Warhammer Fantasy Roleplay (4e)",
+    "core_resolution": [
+      "percentile"
+    ],
+    "narrative_authority": [
+      "gm_full"
+    ],
+    "game_structure": [
+      "turn_based",
+      "phased"
+    ],
+    "player_focus": [
+      "party_based"
+    ],
+    "mechanical_philosophy": [
+      "simulationist",
+      "grimdark"
+    ],
+    "character_mechanics": [
+      "career_system"
+    ],
+    "dice_philosophy": [
+      "graded",
+      "binary"
+    ],
+    "temporal_scale": [
+      "moment_to_moment"
+    ],
+    "resolution_focus": [
+      "task_resolution"
+    ],
+    "genre_scope": [
+      "setting_tied"
+    ]
+  },
+  {
+    "system": "Call of Cthulhu (7e)",
+    "core_resolution": [
+      "percentile"
+    ],
+    "narrative_authority": [
+      "gm_full"
+    ],
+    "game_structure": [
+      "scene_based"
+    ],
+    "player_focus": [
+      "party_based"
+    ],
+    "mechanical_philosophy": [
+      "simulationist",
+      "storyteller"
+    ],
+    "character_mechanics": [
+      "skill_tree"
+    ],
+    "dice_philosophy": [
+      "binary"
+    ],
+    "temporal_scale": [
+      "scene_to_scene"
+    ],
+    "resolution_focus": [
+      "task_resolution"
+    ],
+    "genre_scope": [
+      "setting_tied"
+    ]
+  },
+  {
+    "system": "Savage Worlds (SWADE)",
+    "core_resolution": [
+      "die_step",
+      "bennies"
+    ],
+    "narrative_authority": [
+      "gm_full"
+    ],
+    "game_structure": [
+      "turn_based",
+      "scene_based"
+    ],
+    "player_focus": [
+      "party_based"
+    ],
+    "mechanical_philosophy": [
+      "cinematic",
+      "gamist"
+    ],
+    "character_mechanics": [
+      "skill_tree",
+      "trait_aspect"
+    ],
+    "dice_philosophy": [
+      "exploding"
+    ],
+    "temporal_scale": [
+      "moment_to_moment"
+    ],
+    "resolution_focus": [
+      "task_resolution"
+    ],
+    "genre_scope": [
+      "generic_engine"
+    ]
+  },
+  {
+    "system": "Cortex Prime",
+    "core_resolution": [
+      "dice_pool"
+    ],
+    "narrative_authority": [
+      "gm_partial"
+    ],
+    "game_structure": [
+      "scene_based"
+    ],
+    "player_focus": [
+      "character_driven",
+      "party_based"
+    ],
+    "mechanical_philosophy": [
+      "narrativist",
+      "cinematic"
+    ],
+    "character_mechanics": [
+      "trait_aspect",
+      "relationships"
+    ],
+    "dice_philosophy": [
+      "graded"
+    ],
+    "temporal_scale": [
+      "scene_to_scene"
+    ],
+    "resolution_focus": [
+      "conflict_resolution"
+    ],
+    "genre_scope": [
+      "generic_engine"
+    ]
+  },
+  {
+    "system": "GURPS (4e)",
+    "core_resolution": [
+      "3d6+skill"
+    ],
+    "narrative_authority": [
+      "gm_full"
+    ],
+    "game_structure": [
+      "turn_based",
+      "phased"
+    ],
+    "player_focus": [
+      "party_based"
+    ],
+    "mechanical_philosophy": [
+      "simulationist"
+    ],
+    "character_mechanics": [
+      "skill_tree",
+      "lifepath"
+    ],
+    "dice_philosophy": [
+      "binary",
+      "graded"
+    ],
+    "temporal_scale": [
+      "moment_to_moment"
+    ],
+    "resolution_focus": [
+      "task_resolution"
+    ],
+    "genre_scope": [
+      "generic_engine"
+    ]
+  },
+  {
+    "system": "Traveller (Mongoose 2e)",
+    "core_resolution": [
+      "2d6+skill"
+    ],
+    "narrative_authority": [
+      "gm_full"
+    ],
+    "game_structure": [
+      "turn_based"
+    ],
+    "player_focus": [
+      "party_based"
+    ],
+    "mechanical_philosophy": [
+      "simulationist",
+      "sandbox"
+    ],
+    "character_mechanics": [
+      "lifepath",
+      "skill_tree"
+    ],
+    "dice_philosophy": [
+      "binary"
+    ],
+    "temporal_scale": [
+      "moment_to_moment"
+    ],
+    "resolution_focus": [
+      "task_resolution"
+    ],
+    "genre_scope": [
+      "setting_tied"
+    ]
+  },
+  {
+    "system": "Burning Wheel",
+    "core_resolution": [
+      "dice_pool"
+    ],
+    "narrative_authority": [
+      "gm_partial"
+    ],
+    "game_structure": [
+      "scene_based"
+    ],
+    "player_focus": [
+      "character_driven"
+    ],
+    "mechanical_philosophy": [
+      "narrativist",
+      "simulationist"
+    ],
+    "character_mechanics": [
+      "lifepath",
+      "relationships",
+      "beliefs_instincts_traits"
+    ],
+    "dice_philosophy": [
+      "graded"
+    ],
+    "temporal_scale": [
+      "scene_to_scene"
+    ],
+    "resolution_focus": [
+      "conflict_resolution"
+    ],
+    "genre_scope": [
+      "generic_engine"
+    ]
+  },
+  {
+    "system": "Mythic RPG / GME",
+    "core_resolution": [
+      "oracle_table"
+    ],
+    "narrative_authority": [
+      "gm_none",
+      "gm_shared"
+    ],
+    "game_structure": [
+      "scene_based",
+      "phased"
+    ],
+    "player_focus": [
+      "solo_play",
+      "party_based"
+    ],
+    "mechanical_philosophy": [
+      "narrativist",
+      "procedural"
+    ],
+    "character_mechanics": [
+      "freeform_traits"
+    ],
+    "dice_philosophy": [
+      "oracle_rolls",
+      "graded"
+    ],
+    "temporal_scale": [
+      "scene_to_scene"
+    ],
+    "resolution_focus": [
+      "goal_resolution"
+    ],
+    "genre_scope": [
+      "generic_engine"
+    ]
+  },
+  {
+    "system": "Microscope",
+    "core_resolution": [
+      "diceless"
+    ],
+    "narrative_authority": [
+      "gm_none"
+    ],
+    "game_structure": [
+      "phased"
+    ],
+    "player_focus": [
+      "worldbuilding_based"
+    ],
+    "mechanical_philosophy": [
+      "mythopoetic",
+      "narrativist"
+    ],
+    "character_mechanics": [],
+    "dice_philosophy": [],
+    "temporal_scale": [
+      "epoch_to_epoch"
+    ],
+    "resolution_focus": [
+      "goal_resolution"
+    ],
+    "genre_scope": [
+      "generic_engine"
+    ]
+  },
+  {
+    "system": "The Quiet Year",
+    "core_resolution": [
+      "card_cycle"
+    ],
+    "narrative_authority": [
+      "gm_none"
+    ],
+    "game_structure": [
+      "phased"
+    ],
+    "player_focus": [
+      "community_based"
+    ],
+    "mechanical_philosophy": [
+      "mythopoetic",
+      "narrativist"
+    ],
+    "character_mechanics": [],
+    "dice_philosophy": [],
+    "temporal_scale": [
+      "epoch_to_epoch"
+    ],
+    "resolution_focus": [
+      "goal_resolution"
+    ],
+    "genre_scope": [
+      "setting_tied"
+    ]
+  },
+  {
+    "system": "Ironsworn / Starforged",
+    "core_resolution": [
+      "oracle_table",
+      "2d6+adds"
+    ],
+    "narrative_authority": [
+      "gm_none",
+      "gm_partial"
+    ],
+    "game_structure": [
+      "scene_based",
+      "phased"
+    ],
+    "player_focus": [
+      "solo_play",
+      "party_based"
+    ],
+    "mechanical_philosophy": [
+      "narrativist",
+      "procedural",
+      "cinematic"
+    ],
+    "character_mechanics": [
+      "trait_aspect",
+      "relationships"
+    ],
+    "dice_philosophy": [
+      "graded"
+    ],
+    "temporal_scale": [
+      "scene_to_scene"
+    ],
+    "resolution_focus": [
+      "conflict_resolution"
+    ],
+    "genre_scope": [
+      "genre_emulator"
+    ]
+  },
+  {
+    "system": "Fiasco",
+    "core_resolution": [
+      "d6_pool",
+      "token_economy"
+    ],
+    "narrative_authority": [
+      "gm_none"
+    ],
+    "game_structure": [
+      "scene_based",
+      "phased"
+    ],
+    "player_focus": [
+      "character_driven"
+    ],
+    "mechanical_philosophy": [
+      "narrativist",
+      "cinematic",
+      "tragedy"
+    ],
+    "character_mechanics": [
+      "trait_aspect"
+    ],
+    "dice_philosophy": [
+      "graded"
+    ],
+    "temporal_scale": [
+      "scene_to_scene"
+    ],
+    "resolution_focus": [
+      "conflict_resolution"
+    ],
+    "genre_scope": [
+      "genre_emulator"
+    ]
+  },
+  {
+    "system": "Wrath & Glory (Warhammer 40K)",
+    "core_resolution": [
+      "dice_pool"
+    ],
+    "narrative_authority": [
+      "gm_full"
+    ],
+    "game_structure": [
+      "turn_based"
+    ],
+    "player_focus": [
+      "party_based"
+    ],
+    "mechanical_philosophy": [
+      "gamist",
+      "cinematic"
+    ],
+    "character_mechanics": [
+      "trait_aspect",
+      "career_system"
+    ],
+    "dice_philosophy": [
+      "graded"
+    ],
+    "temporal_scale": [
+      "moment_to_moment"
+    ],
+    "resolution_focus": [
+      "task_resolution"
+    ],
+    "genre_scope": [
+      "setting_tied"
+    ]
+  },
+  {
+    "system": "Savage Worlds Adventure Edition (SWADE)",
+    "core_resolution": [
+      "die_step",
+      "bennies"
+    ],
+    "narrative_authority": [
+      "gm_full"
+    ],
+    "game_structure": [
+      "turn_based",
+      "scene_based"
+    ],
+    "player_focus": [
+      "party_based"
+    ],
+    "mechanical_philosophy": [
+      "cinematic",
+      "gamist"
+    ],
+    "character_mechanics": [
+      "skill_tree",
+      "trait_aspect"
+    ],
+    "dice_philosophy": [
+      "exploding"
+    ],
+    "temporal_scale": [
+      "moment_to_moment"
+    ],
+    "resolution_focus": [
+      "task_resolution"
+    ],
+    "genre_scope": [
+      "generic_engine"
+    ]
+  },
+  {
+    "system": "Fabula Ultima",
+    "core_resolution": [
+      "dice_pool",
+      "ability_score"
+    ],
+    "narrative_authority": [
+      "gm_partial"
+    ],
+    "game_structure": [
+      "scene_based",
+      "phased"
+    ],
+    "player_focus": [
+      "party_based",
+      "character_driven"
+    ],
+    "mechanical_philosophy": [
+      "narrativist",
+      "cinematic"
+    ],
+    "character_mechanics": [
+      "class_level",
+      "relationships",
+      "traits"
+    ],
+    "dice_philosophy": [
+      "graded"
+    ],
+    "temporal_scale": [
+      "scene_to_scene"
+    ],
+    "resolution_focus": [
+      "conflict_resolution"
+    ],
+    "genre_scope": [
+      "genre_emulator"
+    ]
+  },
+  {
+    "system": "Wanderhome",
+    "core_resolution": [
+      "token_economy",
+      "diceless"
+    ],
+    "narrative_authority": [
+      "gm_none"
+    ],
+    "game_structure": [
+      "scene_based",
+      "phased"
+    ],
+    "player_focus": [
+      "community_based",
+      "character_driven"
+    ],
+    "mechanical_philosophy": [
+      "mythopoetic",
+      "narrativist",
+      "reflective"
+    ],
+    "character_mechanics": [
+      "freeform_traits",
+      "relationships"
+    ],
+    "dice_philosophy": [],
+    "temporal_scale": [
+      "scene_to_scene"
+    ],
+    "resolution_focus": [
+      "goal_resolution"
+    ],
+    "genre_scope": [
+      "genre_emulator"
+    ]
+  },
+  {
+    "system": "Belonging Outside Belonging (Dream Askew / Dream Apart)",
+    "core_resolution": [
+      "token_economy",
+      "diceless"
+    ],
+    "narrative_authority": [
+      "gm_none"
+    ],
+    "game_structure": [
+      "scene_based"
+    ],
+    "player_focus": [
+      "character_driven",
+      "community_based"
+    ],
+    "mechanical_philosophy": [
+      "narrativist",
+      "emotional",
+      "consent-based"
+    ],
+    "character_mechanics": [
+      "freeform_traits",
+      "relationships"
+    ],
+    "dice_philosophy": [],
+    "temporal_scale": [
+      "scene_to_scene"
+    ],
+    "resolution_focus": [
+      "conflict_resolution"
+    ],
+    "genre_scope": [
+      "genre_emulator"
+    ]
+  },
+  {
+    "system": "Cairn",
+    "core_resolution": [
+      "d20",
+      "inventory_slots"
+    ],
+    "narrative_authority": [
+      "gm_full"
+    ],
+    "game_structure": [
+      "turn_based"
+    ],
+    "player_focus": [
+      "party_based"
+    ],
+    "mechanical_philosophy": [
+      "simulationist",
+      "osr"
+    ],
+    "character_mechanics": [
+      "classless",
+      "inventory_economy"
+    ],
+    "dice_philosophy": [
+      "binary"
+    ],
+    "temporal_scale": [
+      "moment_to_moment"
+    ],
+    "resolution_focus": [
+      "task_resolution"
+    ],
+    "genre_scope": [
+      "genre_emulator"
+    ]
+  },
+  {
+    "system": "Mothership",
+    "core_resolution": [
+      "percentile",
+      "stress_panic"
+    ],
+    "narrative_authority": [
+      "gm_full"
+    ],
+    "game_structure": [
+      "turn_based",
+      "phased"
+    ],
+    "player_focus": [
+      "party_based"
+    ],
+    "mechanical_philosophy": [
+      "simulationist",
+      "horror",
+      "gamist"
+    ],
+    "character_mechanics": [
+      "class_level",
+      "skill_tree"
+    ],
+    "dice_philosophy": [
+      "binary"
+    ],
+    "temporal_scale": [
+      "moment_to_moment"
+    ],
+    "resolution_focus": [
+      "task_resolution"
+    ],
+    "genre_scope": [
+      "genre_emulator"
+    ]
+  },
+  {
+    "system": "Mörk Borg",
+    "core_resolution": [
+      "d20"
+    ],
+    "narrative_authority": [
+      "gm_full"
+    ],
+    "game_structure": [
+      "turn_based"
+    ],
+    "player_focus": [
+      "party_based"
+    ],
+    "mechanical_philosophy": [
+      "osr",
+      "grimdark",
+      "theatrical"
+    ],
+    "character_mechanics": [
+      "class_level"
+    ],
+    "dice_philosophy": [
+      "binary",
+      "swingy"
+    ],
+    "temporal_scale": [
+      "moment_to_moment"
+    ],
+    "resolution_focus": [
+      "task_resolution"
+    ],
+    "genre_scope": [
+      "setting_tied"
+    ]
+  },
+  {
+    "system": "Troika!",
+    "core_resolution": [
+      "2d6+skill"
+    ],
+    "narrative_authority": [
+      "gm_full"
+    ],
+    "game_structure": [
+      "turn_based"
+    ],
+    "player_focus": [
+      "party_based"
+    ],
+    "mechanical_philosophy": [
+      "osr",
+      "surreal",
+      "gonzo"
+    ],
+    "character_mechanics": [
+      "career_system"
+    ],
+    "dice_philosophy": [
+      "binary"
+    ],
+    "temporal_scale": [
+      "moment_to_moment"
+    ],
+    "resolution_focus": [
+      "task_resolution"
+    ],
+    "genre_scope": [
+      "setting_tied"
+    ]
+  },
+  {
+    "system": "Into the Odd / Electric Bastionland",
+    "core_resolution": [
+      "d20",
+      "hp_saves"
+    ],
+    "narrative_authority": [
+      "gm_full"
+    ],
+    "game_structure": [
+      "turn_based"
+    ],
+    "player_focus": [
+      "party_based"
+    ],
+    "mechanical_philosophy": [
+      "osr",
+      "minimalist",
+      "diegetic"
+    ],
+    "character_mechanics": [
+      "classless",
+      "inventory_economy"
+    ],
+    "dice_philosophy": [
+      "binary"
+    ],
+    "temporal_scale": [
+      "moment_to_moment"
+    ],
+    "resolution_focus": [
+      "task_resolution"
+    ],
+    "genre_scope": [
+      "setting_tied"
+    ]
+  },
+  {
+    "system": "The Black Hack (2e)",
+    "core_resolution": [
+      "d20"
+    ],
+    "narrative_authority": [
+      "gm_full"
+    ],
+    "game_structure": [
+      "turn_based"
+    ],
+    "player_focus": [
+      "party_based"
+    ],
+    "mechanical_philosophy": [
+      "osr",
+      "minimalist"
+    ],
+    "character_mechanics": [
+      "class_level",
+      "stat_based"
+    ],
+    "dice_philosophy": [
+      "binary"
+    ],
+    "temporal_scale": [
+      "moment_to_moment"
+    ],
+    "resolution_focus": [
+      "task_resolution"
+    ],
+    "genre_scope": [
+      "generic_engine"
+    ]
+  },
+  {
+    "system": "Old School Essentials (OSE)",
+    "core_resolution": [
+      "d20"
+    ],
+    "narrative_authority": [
+      "gm_full"
+    ],
+    "game_structure": [
+      "turn_based",
+      "phased"
+    ],
+    "player_focus": [
+      "party_based"
+    ],
+    "mechanical_philosophy": [
+      "osr",
+      "simulationist"
+    ],
+    "character_mechanics": [
+      "class_level"
+    ],
+    "dice_philosophy": [
+      "binary"
+    ],
+    "temporal_scale": [
+      "moment_to_moment"
+    ],
+    "resolution_focus": [
+      "task_resolution"
+    ],
+    "genre_scope": [
+      "genre_emulator"
+    ]
+  },
+  {
+    "system": "Knave (2e)",
+    "core_resolution": [
+      "d20"
+    ],
+    "narrative_authority": [
+      "gm_full"
+    ],
+    "game_structure": [
+      "turn_based"
+    ],
+    "player_focus": [
+      "party_based"
+    ],
+    "mechanical_philosophy": [
+      "osr",
+      "minimalist"
+    ],
+    "character_mechanics": [
+      "inventory_economy"
+    ],
+    "dice_philosophy": [
+      "binary"
+    ],
+    "temporal_scale": [
+      "moment_to_moment"
+    ],
+    "resolution_focus": [
+      "task_resolution"
+    ],
+    "genre_scope": [
+      "genre_emulator"
+    ]
+  },
+  {
+    "system": "Numenera",
+    "core_resolution": [
+      "fixed_target"
+    ],
+    "narrative_authority": [
+      "gm_partial"
+    ],
+    "game_structure": [
+      "scene_based"
+    ],
+    "player_focus": [
+      "party_based",
+      "character_driven"
+    ],
+    "mechanical_philosophy": [
+      "narrativist",
+      "exploratory"
+    ],
+    "character_mechanics": [
+      "trait_aspect",
+      "skill_tree"
+    ],
+    "dice_philosophy": [
+      "graded"
+    ],
+    "temporal_scale": [
+      "scene_to_scene"
+    ],
+    "resolution_focus": [
+      "conflict_resolution"
+    ],
+    "genre_scope": [
+      "setting_tied"
+    ]
+  },
+  {
+    "system": "Mutant Year Zero / Forbidden Lands",
+    "core_resolution": [
+      "dice_pool",
+      "push"
+    ],
+    "narrative_authority": [
+      "gm_partial"
+    ],
+    "game_structure": [
+      "phased"
+    ],
+    "player_focus": [
+      "party_based",
+      "community_based"
+    ],
+    "mechanical_philosophy": [
+      "survivalist",
+      "simulationist",
+      "narrativist"
+    ],
+    "character_mechanics": [
+      "skill_tree",
+      "relationships"
+    ],
+    "dice_philosophy": [
+      "graded"
+    ],
+    "temporal_scale": [
+      "moment_to_moment",
+      "downtime_system"
+    ],
+    "resolution_focus": [
+      "task_resolution"
+    ],
+    "genre_scope": [
+      "genre_emulator"
+    ]
+  },
+  {
+    "system": "Alien RPG (Year Zero)",
+    "core_resolution": [
+      "dice_pool",
+      "stress_panic"
+    ],
+    "narrative_authority": [
+      "gm_full"
+    ],
+    "game_structure": [
+      "turn_based",
+      "scene_based"
+    ],
+    "player_focus": [
+      "party_based"
+    ],
+    "mechanical_philosophy": [
+      "cinematic",
+      "horror"
+    ],
+    "character_mechanics": [
+      "skill_tree",
+      "stress_meter"
+    ],
+    "dice_philosophy": [
+      "graded"
+    ],
+    "temporal_scale": [
+      "scene_to_scene"
+    ],
+    "resolution_focus": [
+      "conflict_resolution"
+    ],
+    "genre_scope": [
+      "setting_tied"
+    ]
+  },
+  {
+    "system": "Coriolis",
+    "core_resolution": [
+      "dice_pool"
+    ],
+    "narrative_authority": [
+      "gm_full"
+    ],
+    "game_structure": [
+      "scene_based"
+    ],
+    "player_focus": [
+      "party_based"
+    ],
+    "mechanical_philosophy": [
+      "cinematic",
+      "narrativist"
+    ],
+    "character_mechanics": [
+      "skill_tree",
+      "relationships"
+    ],
+    "dice_philosophy": [
+      "graded"
+    ],
+    "temporal_scale": [
+      "scene_to_scene"
+    ],
+    "resolution_focus": [
+      "conflict_resolution"
+    ],
+    "genre_scope": [
+      "setting_tied"
+    ]
+  },
+  {
+    "system": "Genesys / FFG Star Wars",
+    "core_resolution": [
+      "narrative_dice"
+    ],
+    "narrative_authority": [
+      "gm_partial"
+    ],
+    "game_structure": [
+      "scene_based",
+      "phased"
+    ],
+    "player_focus": [
+      "party_based"
+    ],
+    "mechanical_philosophy": [
+      "cinematic",
+      "narrativist",
+      "gamist"
+    ],
+    "character_mechanics": [
+      "skill_tree",
+      "talent_tree"
+    ],
+    "dice_philosophy": [
+      "symbolic_results",
+      "graded"
+    ],
+    "temporal_scale": [
+      "scene_to_scene"
+    ],
+    "resolution_focus": [
+      "conflict_resolution"
+    ],
+    "genre_scope": [
+      "genre_emulator"
+    ]
+  },
+  {
+    "system": "Lancer",
+    "core_resolution": [
+      "2d6+modifiers",
+      "heat",
+      "overcharge"
+    ],
+    "narrative_authority": [
+      "gm_full"
+    ],
+    "game_structure": [
+      "turn_based",
+      "phased"
+    ],
+    "player_focus": [
+      "party_based"
+    ],
+    "mechanical_philosophy": [
+      "simulationist",
+      "tactical",
+      "narrativist"
+    ],
+    "character_mechanics": [
+      "class_level",
+      "mech_build"
+    ],
+    "dice_philosophy": [
+      "graded"
+    ],
+    "temporal_scale": [
+      "moment_to_moment"
+    ],
+    "resolution_focus": [
+      "task_resolution"
+    ],
+    "genre_scope": [
+      "setting_tied"
+    ]
+  },
+  {
+    "system": "Apocalypse Keys",
+    "core_resolution": [
+      "2d6+stat"
+    ],
+    "narrative_authority": [
+      "gm_partial"
+    ],
+    "game_structure": [
+      "scene_based",
+      "phased"
+    ],
+    "player_focus": [
+      "character_driven",
+      "party_based"
+    ],
+    "mechanical_philosophy": [
+      "narrativist",
+      "horror",
+      "emotional"
+    ],
+    "character_mechanics": [
+      "relationships",
+      "traits"
+    ],
+    "dice_philosophy": [
+      "graded"
+    ],
+    "temporal_scale": [
+      "scene_to_scene"
+    ],
+    "resolution_focus": [
+      "conflict_resolution"
+    ],
+    "genre_scope": [
+      "genre_emulator"
+    ]
+  },
+  {
+    "system": "Thirsty Sword Lesbians",
+    "core_resolution": [
+      "2d6+stat"
+    ],
+    "narrative_authority": [
+      "gm_partial"
+    ],
+    "game_structure": [
+      "scene_based"
+    ],
+    "player_focus": [
+      "character_driven",
+      "relationships"
+    ],
+    "mechanical_philosophy": [
+      "narrativist",
+      "emotional"
+    ],
+    "character_mechanics": [
+      "relationships",
+      "traits"
+    ],
+    "dice_philosophy": [
+      "graded"
+    ],
+    "temporal_scale": [
+      "scene_to_scene"
+    ],
+    "resolution_focus": [
+      "conflict_resolution"
+    ],
+    "genre_scope": [
+      "genre_emulator"
+    ]
+  },
+  {
+    "system": "Cthulhu Dark",
+    "core_resolution": [
+      "d6_pool"
+    ],
+    "narrative_authority": [
+      "gm_partial",
+      "gm_shared"
+    ],
+    "game_structure": [
+      "scene_based"
+    ],
+    "player_focus": [
+      "character_driven"
+    ],
+    "mechanical_philosophy": [
+      "minimalist",
+      "narrativist",
+      "horror"
+    ],
+    "character_mechanics": [
+      "freeform_traits",
+      "sanity_meter"
+    ],
+    "dice_philosophy": [
+      "graded"
+    ],
+    "temporal_scale": [
+      "scene_to_scene"
+    ],
+    "resolution_focus": [
+      "conflict_resolution"
+    ],
+    "genre_scope": [
+      "genre_emulator"
+    ]
+  },
+  {
+    "system": "Mausritter",
+    "core_resolution": [
+      "d20"
+    ],
+    "narrative_authority": [
+      "gm_full"
+    ],
+    "game_structure": [
+      "turn_based"
+    ],
+    "player_focus": [
+      "party_based"
+    ],
+    "mechanical_philosophy": [
+      "osr",
+      "inventory_economy"
+    ],
+    "character_mechanics": [
+      "classless",
+      "inventory_slots"
+    ],
+    "dice_philosophy": [
+      "binary"
+    ],
+    "temporal_scale": [
+      "moment_to_moment"
+    ],
+    "resolution_focus": [
+      "task_resolution"
+    ],
+    "genre_scope": [
+      "genre_emulator"
+    ]
+  },
+  {
+    "system": "City of Mist",
+    "core_resolution": [
+      "2d6+tags"
+    ],
+    "narrative_authority": [
+      "gm_partial"
+    ],
+    "game_structure": [
+      "scene_based"
+    ],
+    "player_focus": [
+      "character_driven",
+      "party_based"
+    ],
+    "mechanical_philosophy": [
+      "narrativist",
+      "cinematic",
+      "mystery"
+    ],
+    "character_mechanics": [
+      "trait_aspect",
+      "relationships"
+    ],
+    "dice_philosophy": [
+      "graded"
+    ],
+    "temporal_scale": [
+      "scene_to_scene"
+    ],
+    "resolution_focus": [
+      "conflict_resolution"
+    ],
+    "genre_scope": [
+      "setting_tied"
+    ]
+  },
+  {
+    "system": "Ten Candles",
+    "core_resolution": [
+      "dice_pool",
+      "burning_candles"
+    ],
+    "narrative_authority": [
+      "gm_partial"
+    ],
+    "game_structure": [
+      "phased"
+    ],
+    "player_focus": [
+      "character_driven",
+      "ensemble"
+    ],
+    "mechanical_philosophy": [
+      "tragic",
+      "narrativist",
+      "ritualistic"
+    ],
+    "character_mechanics": [
+      "freeform_traits"
+    ],
+    "dice_philosophy": [
+      "decreasing_pool"
+    ],
+    "temporal_scale": [
+      "scene_to_scene"
+    ],
+    "resolution_focus": [
+      "goal_resolution"
+    ],
+    "genre_scope": [
+      "genre_emulator"
+    ]
+  },
+  {
+    "system": "Thousand Year Old Vampire",
+    "core_resolution": [
+      "oracle_table",
+      "journaling"
+    ],
+    "narrative_authority": [
+      "gm_none"
+    ],
+    "game_structure": [
+      "phased"
+    ],
+    "player_focus": [
+      "solo_play"
+    ],
+    "mechanical_philosophy": [
+      "mythopoetic",
+      "narrativist",
+      "reflective"
+    ],
+    "character_mechanics": [
+      "memory_slots"
+    ],
+    "dice_philosophy": [],
+    "temporal_scale": [
+      "epoch_to_epoch"
+    ],
+    "resolution_focus": [
+      "goal_resolution"
+    ],
+    "genre_scope": [
+      "genre_emulator"
+    ]
+  },
+  {
+    "system": "Dialect",
+    "core_resolution": [
+      "diceless",
+      "card_prompts"
+    ],
+    "narrative_authority": [
+      "gm_none"
+    ],
+    "game_structure": [
+      "phased"
+    ],
+    "player_focus": [
+      "community_based",
+      "worldbuilding_based"
+    ],
+    "mechanical_philosophy": [
+      "mythopoetic",
+      "narrativist"
+    ],
+    "character_mechanics": [
+      "freeform_traits"
+    ],
+    "dice_philosophy": [],
+    "temporal_scale": [
+      "epoch_to_epoch"
+    ],
+    "resolution_focus": [
+      "goal_resolution"
+    ],
+    "genre_scope": [
+      "genre_emulator"
+    ]
+  },
+  {
+    "system": "Kingdom",
+    "core_resolution": [
+      "diceless"
+    ],
+    "narrative_authority": [
+      "gm_none",
+      "gm_shared"
+    ],
+    "game_structure": [
+      "scene_based",
+      "phased"
+    ],
+    "player_focus": [
+      "institution_based",
+      "community_based"
+    ],
+    "mechanical_philosophy": [
+      "narrativist",
+      "procedural"
+    ],
+    "character_mechanics": [
+      "freeform_traits"
+    ],
+    "dice_philosophy": [],
+    "temporal_scale": [
+      "scene_to_scene"
+    ],
+    "resolution_focus": [
+      "goal_resolution"
+    ],
+    "genre_scope": [
+      "generic_engine"
+    ]
+  },
+  {
+    "system": "Follow",
+    "core_resolution": [
+      "diceless",
+      "token_pool"
+    ],
+    "narrative_authority": [
+      "gm_none"
+    ],
+    "game_structure": [
+      "phased"
+    ],
+    "player_focus": [
+      "party_based",
+      "community_based"
+    ],
+    "mechanical_philosophy": [
+      "narrativist",
+      "procedural"
+    ],
+    "character_mechanics": [
+      "freeform_traits"
+    ],
+    "dice_philosophy": [],
+    "temporal_scale": [
+      "scene_to_scene"
+    ],
+    "resolution_focus": [
+      "goal_resolution"
+    ],
+    "genre_scope": [
+      "generic_engine"
+    ]
+  }
+]
