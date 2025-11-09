@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>TTRPG Systems Relationship Graph</title>
+    <link rel="stylesheet" href="styles.css" />
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/7.8.5/d3.min.js" integrity="sha512-9Idb5xjAGHgfoShyB8e9YEHz0vCARUpUvaxKJWlSw/ITUSlfAUfdlAqgaFf2PB3j7oB5/2SHYVJvwk5pfqMdIg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+  </head>
+  <body>
+    <div id="graph"></div>
+    <aside id="info-panel">
+      <h1>TTRPG Systems Explorer</h1>
+      <p>
+        Explore table-top RPG systems and the design philosophies that connect them.
+        Click on a system to highlight the mechanics and philosophies that shape it, or
+        click a tag to see which games share that element.
+      </p>
+      <div class="meta">
+        <span>Click</span>
+        <span>Drag</span>
+        <span>Zoom</span>
+      </div>
+      <div id="details"></div>
+    </aside>
+
+    <script src="main.js"></script>
+  </body>
+</html>
